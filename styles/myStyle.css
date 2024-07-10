@@ -406,7 +406,8 @@ input[type="submit"] {
 
 #PartyBridemade > section {
     display: block;
-    align-items:center;
+    display:flex;
+    justify-content:center;
 }
 
 #PartyBridemade  div {
@@ -454,7 +455,8 @@ input[type="submit"] {
 }
 
 #sectionTdl {
-    padding-right: 180px;
+    display:flex;
+    justify-content:center;
 }
 
 #sectionTdl div {
